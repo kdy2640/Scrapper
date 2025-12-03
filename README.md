@@ -11,7 +11,7 @@
 
 ---
 
-## 🚧 WIP: About the Project
+## WIP: About the Project
 **Scrapper**는  
 쓰레기장 같은 공간을 자유롭게 파헤치고,  
 쓰레기를 모아 돈으로 환전하며,  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📁 Project Status
+## Project Status
 **Development Status: WIP (Prototype Stage)**  
 다음 기능들을 중심으로 구현/정리 중입니다.
 
